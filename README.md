@@ -1,6 +1,6 @@
 <div align="center">
 
-# Luka Homepage
+# Fafa Homepage
 
 ### A warm, minimal, responsive homepage template for researchers, students, builders, and creators.
 
