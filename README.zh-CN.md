@@ -1,6 +1,6 @@
 <div align="center">
 
-# Luka Homepage
+# fafa Homepage
 
 ### 一个温暖、极简、响应式的个人主页模板，适合研究者、学生、开发者和创作者。
 
